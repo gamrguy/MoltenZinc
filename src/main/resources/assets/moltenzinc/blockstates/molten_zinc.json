@@ -1,0 +1,9 @@
+{
+	"multipart": [
+		{
+			"apply": {
+				"model": "moltenzinc:block/molten_zinc"
+			}
+		}
+	]
+}
